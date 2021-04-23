@@ -1,4 +1,4 @@
-# my-first-app
+# Learning Resource Organisor
 
 ## Project setup
 ```
